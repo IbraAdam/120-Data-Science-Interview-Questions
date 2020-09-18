@@ -16,7 +16,7 @@ The result is between 0 (000) and 7 (111), evenly spread (3 independent throw). 
 #### 6. Given draws from a normal distribution with known parameters, how can you simulate draws from a uniform distribution?
   - plug in the value to the CDF of the same random variable
 #### 7. A certain couple tells you that they have two children, at least one of which is a girl. What is the probability that they have two girls?
-  - 1/3
+  - 1/3. I feel this should be 3/4, unless anyone would like to explain. Thanks.
 #### 8. You have a group of couples that decide to have children until they have their first girl, after which they stop having children. What is the expected gender ratio of the children that are born? What is the expected number of children each couple will have?
   - gender ratio is 1:1. Expected number of children is 2. let X be the number of children until getting a female (happens with prob 1/2). this follows a geometric distribution with probability 1/2
 #### 9. How many ways can you split 12 people into 3 teams of 4?
